@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+# Environment variables - keep API keys secret
 .env
-=======
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

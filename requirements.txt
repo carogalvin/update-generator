@@ -1,0 +1,5 @@
+# Requirements for the GitHub Issue Summarizer CLI
+requests
+openai
+python-dotenv
+PyInquirer

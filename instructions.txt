@@ -1,0 +1,11 @@
+# Edit this file to customize the summary prompt for the AI.
+Summarize the following GitHub issues and their recent comments for a weekly project update. Focus on progress, blockers, and next steps. Be concise and clear.
+All the issues should be summarized into a single update as below, and not individually described.
+Use the following format:
+Overall status: emoji, 🟢 for good, 🟡 for at risk, and 🔴 for blocked or in need of support
+**Wins**
+list of Wins
+**Developments**
+list of other key things that have happened
+**Support Needed**
+list of things that need support that could only be provided by leadership and not done by someone on the project. there might not be anything; if there is nothing that an executive needs to do, leave this part out.

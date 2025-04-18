@@ -1,6 +1,5 @@
 # Environment variables - keep API keys secret
 .env
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -175,4 +174,3 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
->>>>>>> 411d01d4ae6ae95176157d7f63cff9855a5a30b5
